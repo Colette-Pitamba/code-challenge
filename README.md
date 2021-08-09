@@ -22,7 +22,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Downloads packages and it's dependencies.\
+Downloads packages and it's dependencies.
 
 ### `npm start`
 
