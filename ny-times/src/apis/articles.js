@@ -8,7 +8,7 @@ const apiKey = 'Gwxln5M3geWlhR6UE0TY1FUWKSG3wCil';
  */
 
 export const getArticlesRequested = async () => {
-	const articles = await axios.get(`${baseURL}?api-key=${apiKey}`);
+  const articles = await axios.get(`${baseURL}?api-key=${apiKey}`);
 
-	return articles.data;
-} ;
+  return articles.data;
+};
